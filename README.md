@@ -1,5 +1,8 @@
 # Project done for the OOP uni course
 ## World simulation!
+### Demo:
+![simulation](https://github.com/botezatumarius/OOP-Uni-Course/assets/130219634/0441b451-e539-419c-a488-affbcb31f218)
+
 Main entities:
 - Humans: Can reproduce, the more humans -> more reproduction<br />
         Can kill each other in wars, the bigger the "evilness" attribute of the humans the more they kill each other<br />
