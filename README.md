@@ -1,7 +1,7 @@
 # Project done for the OOP uni course
 ## World simulation!
 ### Demo:
-![simulation](https://github.com/botezatumarius/OOP-Uni-Course/assets/130219634/0441b451-e539-419c-a488-affbcb31f218)
+![simulation](https://github.com/botezatumarius/test/assets/130219634/464a336d-5ebb-40f6-af86-6af55f55d1de)
 
 Main entities:
 - Humans: Can reproduce, the more humans -> more reproduction<br />
